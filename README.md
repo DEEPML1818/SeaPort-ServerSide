@@ -15,7 +15,7 @@ This framework is written using Python and uses the [Django Rest Framework](http
 2. Open a [Command Line Interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface) and clone this repository:
 
 ```bash
-git clone https://github.com/CyberGeeky/SeaPort-ServerSide.git
+git clone https://github.com/cybergeeky/SeaPort-ServerSide.git
 ```
 
 ## Getting Started
