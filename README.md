@@ -2,7 +2,7 @@
 ![SeaPort-ServerSide Image](https://github.com/cyberlawd/SeaPort-ServerSide/blob/main/Seaport.jpeg)
 
 # ServerSide Implementation
-### If you have questions or need any help, Message me here: [@cybergeek](https://t.me/cybergeeky) 
+### If you have questions or need any help, Message me here: [@cybergeek](https://t.me/alphageeky) 
 
 [OpenSea-Seaport](https://github.com/cyberlawd/OpenSea-SeaPort) is a brand new, open-source, web 3.0 marketplace protocol that enables buying and selling of NFTs safely and efficiently . Launched first on Ethereum, Seaport has helped create a better, more feature-rich experience for our community, while lowering the cost to use web 3.0 marketplaces, like OpenSea. The implementation also includes a [ClientSide](https://github.com/cyberlawd/OpenSea-SeaPort).
 
@@ -15,7 +15,7 @@ This framework is written using Python and uses the [Django Rest Framework](http
 2. Open a [Command Line Interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface) and clone this repository:
 
 ```bash
-git clone https://github.com/cybergeeky/SeaPort-ServerSide.git
+git clone https://github.com/AlphaGeeky/SeaPort-ServerSide.git
 ```
 
 ## Getting Started
